@@ -47,10 +47,10 @@
 
 ## Contributors
 
+* [@Amit Singh](https://github.com/amitsinghthapliyal)
 * [@Gaurav Dhamal](https://github.com/gauravdhamal)
 * [@Aman Yadav](https://github.com/aman6750)
 * [@Trupti Rajendra Ghadekar](https://github.com/TruptiRG)
-* [@Amit Singh](https://github.com/amitsinghthapliyal)
 * [@Suraj Kumar](https://github.com/suraj-996)
 
 
