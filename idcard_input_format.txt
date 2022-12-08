@@ -1,0 +1,54 @@
+Idcard data
+
+
+{
+  "address": "bihar",
+  "adharCard": {
+    "adharNo": 545444484,
+  },
+  "city": "patna",
+  "dob": "2003-11-10",
+  "gender": "male",
+  "name": "suraj",
+  "panCard": {
+    "panNo": "juepk7214m"
+  },
+  "pincode": "800027",
+  "state": "bihar"
+}
+
+member
+
+
+{
+  "dose1date": "2020-10-11",
+  "dose1status": true,
+  "dose2date": "2020-12-11",
+  "dose2status": false,
+  "vaccine": [
+    {
+      "description": "vaccine-desc",
+      "vaccineCount": {
+        "price": 1000,
+        "quantity": 100
+      },
+      "vaccineName": "cowaxin"
+    }
+  ]
+}
+
+
+User - Appointment, Member, Vaccine, Vaccine Center,Vaccine Registration
+
+Admin - Member, Vaccine, Vaccine Center,Vaccine Registration,Vaccine Inventory,
+
+admin - vaccine inventory,vaccine Center
+user - member,vaccine,appointment,vaccine Registration
+
+
+
+aman-vaccine inventory,vaccine center
+trupti - vaccine Registration,vaccine
+amit-member ,appointment
+gaurav -
+suraj -
